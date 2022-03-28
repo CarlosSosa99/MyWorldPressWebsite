@@ -1,1 +1,1 @@
-# MyWorldPressWebsite
+# MyWordPressWebsite
